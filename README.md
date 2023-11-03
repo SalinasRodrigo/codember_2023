@@ -16,4 +16,4 @@
 
 | Challenge | Name                                      |                                    |
 | --------- | ----------------------------------------- | ---------------------------------- |
-| 1         | Fix Twitter!                              | [solution](./challenge_1/index.py) | 
+| 1         | Mensajes encriptados                      | [solution](./challenge_1/index.py) | 
