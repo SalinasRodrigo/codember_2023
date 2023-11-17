@@ -17,3 +17,4 @@
 | Challenge | Name                                      |                                    |
 | --------- | ----------------------------------------- | ---------------------------------- |
 | 1         | Mensajes encriptados                      | [solution](./challenge_1/index.py) | 
+| 2         | Mini Compiler                             | [solution](./challenge_2/index.py) | 
